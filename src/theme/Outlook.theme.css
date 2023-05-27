@@ -1,0 +1,26 @@
+/**
+ * @name Outlook
+ * @author maenDisease
+ * @version 1.0.0
+ * @description Based on Outlook Web. Customize with https://bdeditor.dev/theme/Outlook
+ * @source https://github.com/maenDisease/Outlook
+ * @website https://maendisease.github.io/
+ * @invite BShu37e4jg
+*/
+
+@import url('https://maendisease.github.io/Outlook/Outlook.css');
+
+@import url(https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css);
+:root {
+  --home-image: url('https://i.imgur.com/NGoo8Fr.jpg');
+  --accent-hue: 311;
+  --accent-saturation: 76%;
+  --accent-brightness: 65%;
+  --gradient-toggle: 0;
+  --gradient-hue-shift: 0;
+  --gradient-saturation: 100%;
+  --gradient-deg: 0deg;
+  --customFont: MS Gothic;
+}
+
+/* Any custom CSS below here */
